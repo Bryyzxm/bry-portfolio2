@@ -63,6 +63,7 @@ body {
 }
 .my-navbar .nav-link {
   text-transform: uppercase;
+  text-align: center;
 }
 .home {
   background-image: url(img/bg-nav.png);
@@ -396,8 +397,9 @@ footer li {
   html {
     font-size: 60%;
   }
+
   .simply-countdown > .simply-section {
-    padding: 45px;
+    padding: 40px;
     margin: 3px;
   }
   .timeline li .timeline-image {
